@@ -1,4 +1,4 @@
-## Faster Smelting Datapack
+## Faster Smelting Datapack for Minecraft 1.14
 
 I hate waiting! This is just a very simple datapack for Minecraft Java Edition to speed up smelting time.
 
