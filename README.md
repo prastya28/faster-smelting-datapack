@@ -10,8 +10,18 @@ Quite an upgrade, isn't it?
 You can modify the speed by editing the "cookingtime" integer element inside the JSON file.
 
 Currently, not all possible items are added.
-Tested and works on _Minecraft 1.14.1_
+Tested and works on **Minecraft 1.14.1**
+
+## Download
+
+Check the [**Releases**](https://github.com/prastya28/faster-smelting-datapack/releases) section or use the green **Clone or download** button above.
+
+If you're a nerd, you can also just git clone this.
 
 ## How to install?
 
-Check https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack
+You don't need to unzip, just move the .zip file into this folder:
+
+> .minecraft/saves/< YOUR WORLD NAME >/datapacks
+
+Or go to this [**Minecraft Wiki**](https://minecraft.gamepedia.com/Tutorials/Installing_a_data_pack) for more details.
