@@ -10,7 +10,8 @@ Quite an upgrade, isn't it?
 You can modify the speed by editing the "cookingtime" integer element inside the JSON file.
 
 Currently, not all possible items are added.
-[**UPDATE**] Tested and works on **Minecraft 1.16**
+
+[**UPDATE - 06/23/2020**] Tested and works on **Minecraft 1.16**
 
 ## Download
 
