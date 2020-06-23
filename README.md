@@ -1,4 +1,4 @@
-## Faster Smelting Datapack for Minecraft 1.14
+## Faster Smelting Datapack for Minecraft 1.14.x, 1.15.x, 1.16.x
 
 I hate waiting! This is just a very simple datapack for Minecraft Java Edition to speed up smelting time.
 
@@ -10,7 +10,7 @@ Quite an upgrade, isn't it?
 You can modify the speed by editing the "cookingtime" integer element inside the JSON file.
 
 Currently, not all possible items are added.
-Tested and works on **Minecraft 1.14.4**
+[**UPDATE**] Tested and works on **Minecraft 1.16**
 
 ## Download
 
